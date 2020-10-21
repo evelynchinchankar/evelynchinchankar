@@ -13,12 +13,13 @@ If you have any questions, comments, or concerns, feel free to email me @ evelyn
 Over the summer of 2020, I participated in my first ever hackathon! The prompt was to create any product involving disaster reflief. I worked alongside three other girls in an attempt to help people struggling due to the COVID-19 pandemic. We created an HTML website with a JavaScript map that locates resources relevant to the pandemic for Houstonians. For example, we mapped grocery stores offering senior hours or pharmacies with COVID testing. After spending a relentless weekend making our product, we finished in first place! Our DevPost submission and the actual product are linked here. 
 
 DevPost: https://devpost.com/software/covid-19-relief-website-with-interactive-map
+
 Website: https://ehack-website.aaabattery.repl.co/index.html
 
 ### Personal Project
 As an IB student, one requirement is that we complete a personal project over our freshman and sophomore years of high school. The personal project is an open project where students create something related to one of their interests. As an avid computer scientist, I chose to make an HTML website (with JavaScript and CSS) teaching basic Python. I do not have the file for my work, however, the attached video shows my final product. Since it is a large file, you may have to download it. 
 
-[video](https://github.com/evelynchinchankar/evelynchinchankar/blob/main/pp.html%20video.mov)
+[Personal Project](https://github.com/evelynchinchankar/evelynchinchankar/blob/main/pp.html%20video.mov)
 
 ## IB Computer Science (2020-2022)
 ### PHP Single-Serving Site Project
@@ -54,6 +55,7 @@ QUARTILE 2 PROJECT
 [- radish.js](https://github.com/chinceve000/Portfoli-Yo/blob/master/radish.js)
 
 QUARTILE 3 PROJECT
+
 [- d3.html](https://github.com/chinceve000/Portfoli-Yo/blob/master/d3.html)
 
 [- advancedShape.js](https://github.com/chinceve000/Portfoli-Yo/blob/master/advancedShape.js)
