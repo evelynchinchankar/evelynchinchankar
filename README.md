@@ -1,7 +1,7 @@
-# Evelyn Chinchankar Portfolio
+# Portfolio
 
-## Who am I?
-Hey there! I'm Evelyn Chinchankar, a junior at Westchester Academy for International Studies in Houston, Texas. I am currently in my third year of programming and in pursuit of an IB diploma. Over my three years with coding, I've worked with Python, javascript, HTML, CSS & PHP. 
+## About Me
+Hey there! I'm Evelyn Chinchankar, a junior at Westchester Academy for International Studies in Houston, Texas. I am currently in my third year of programming and in pursuit of an IB diploma. Over my three years with coding, I've worked with Python, JavaScript, HTML, CSS & PHP. 
 
 ## How does this portfolio work?
 Over my high school career, I've compiled my computer science work here on GitHub. My Free Coding section is work I've done outside of school or not directly for a computer science class. After that, all my work is divided by the scholastic year I made it. Enjoy!
@@ -14,7 +14,9 @@ DevPost: https://devpost.com/software/covid-19-relief-website-with-interactive-m
 Website: https://ehack-website.aaabattery.repl.co/index.html
 
 ### Personal Project
+As an IB student, one requirement is that we make complete a personal project over our freshman and sophomore years of high school. The personal project is an open project where students create something related to one of their interests. As an avid computer scientist, I chose to make an HTML website (with JavaScript and CSS) teaching basic Python. I do not have the file for my work, however, the attached video shows my work.
 
+[- hello.html](linkkkkkk)
 
 ## IB Computer Science (2020-2022)
 ### PHP Single-Serving Site Project
