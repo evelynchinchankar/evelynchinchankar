@@ -22,6 +22,11 @@ As an IB student, one requirement is that we complete a personal project over ou
 [Personal Project](https://github.com/evelynchinchankar/evelynchinchankar/blob/main/pp.html%20video.mov)
 
 ## IB Computer Science (2020-2022)
+### Hypothetical Case Study
+Our latest unit has focused more on system fundamentals and IT policy. The project for our unit was to create a randomly determined company and act as a process analyst to yet another randomly determined company facing an issue. I "worked" as a part of ProcessEase to help the Crochet Chinthe Cafe on Mars to compete with another cafe domnating the market. I proposed my solutions in the Google Slides presentation linked below. 
+[Google Slides Link](https://docs.google.com/presentation/d/1SyaNTRU3RDyw8wJcXKkNfhftmR9vhAEHuOiH0gnl_oU/edit?usp=sharing)
+This project tested my knowledge on system management, system implementation, and process management. 
+
 ### PHP Single-Serving Site Project
 To begin IB Computer Science, we've started looking at PHP. I am currently (10/15/20) working on our first big project of the year. Over a few classes, I completed a Lynda course called Single Serving Sites. My project is coming along in the index.html file while my notes from the course are across other files. Please note that most of the notes are directly from the video. Also, note that this is a work in progress and my project is not yet complete.
 
