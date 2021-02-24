@@ -24,7 +24,9 @@ As an IB student, one requirement is that we complete a personal project over ou
 ## IB Computer Science (2020-2022)
 ### Hypothetical Case Study
 Our latest unit has focused more on system fundamentals and IT policy. The project for our unit was to create a randomly determined company and act as a process analyst to yet another randomly determined company facing an issue. I "worked" as a part of ProcessEase to help the Crochet Chinthe Cafe on Mars to compete with another cafe domnating the market. I proposed my solutions in the Google Slides presentation linked below. 
+
 [Google Slides Link](https://docs.google.com/presentation/d/1SyaNTRU3RDyw8wJcXKkNfhftmR9vhAEHuOiH0gnl_oU/edit?usp=sharing)
+
 This project tested my knowledge on system management, system implementation, and process management. 
 
 ### PHP Single-Serving Site Project
