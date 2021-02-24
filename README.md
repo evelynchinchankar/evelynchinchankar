@@ -27,7 +27,7 @@ Our latest unit has focused more on system fundamentals and IT policy. The proje
 
 [Google Slides Link](https://docs.google.com/presentation/d/1SyaNTRU3RDyw8wJcXKkNfhftmR9vhAEHuOiH0gnl_oU/edit?usp=sharing)
 
-This project tested my knowledge on system management, system implementation, and process management. 
+This project tested my knowledge on system management, system implementation, and process management. In order to save the cafe, I had to propose a new system, which then involved how that system would actually be used within the company. I also had to address other aspects, like advertising and investments, to help the business further. This project helped me develop a better understanding of how system fundamentals are involved in the real world, as well as how to apply my knowledge to real-world issues to create real-world solutions. 
 
 ### PHP Single-Serving Site Project
 To begin IB Computer Science, we've started looking at PHP. I am currently (10/15/20) working on our first big project of the year. Over a few classes, I completed a Lynda course called Single Serving Sites. My project is coming along in the index.html file while my notes from the course are across other files. Please note that most of the notes are directly from the video. Also, note that this is a work in progress and my project is not yet complete.
