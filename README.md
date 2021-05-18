@@ -30,9 +30,14 @@ Our latest unit has focused more on system fundamentals and IT policy. The proje
 This project tested my knowledge on system management, system implementation, and process management. In order to save the cafe, I had to propose a new system, which then involved how that system would actually be used within the company. I also had to address other aspects, like advertising and investments, to help the business further. This project helped me develop a better understanding of how system fundamentals are involved in the real world, as well as how to apply my knowledge to real-world issues to create real-world solutions. 
 
 ### PHP Single-Serving Site Project
-To begin IB Computer Science, we've started looking at PHP. I am currently (10/15/20) working on our first big project of the year. Over a few classes, I completed a Lynda course called Single Serving Sites. My project is coming along in the index.html file while my notes from the course are across other files. Please note that most of the notes are directly from the video. Also, note that this is a work in progress and my project is not yet complete.
+To begin IB Computer Science, we've started looking at PHP. I am currently (10/15/20) working on our first big project of the year. Over a few classes, I completed a Lynda course called Single Serving Sites. My project is coming along in the index.html file while my notes from the course are across other files. Please note that most of the notes are directly from the video. Please note, this is a project still in progress.
 
 Repl.It: https://repl.it/@EvelynChinchank/phpProj
+
+### OTHER
+Towards the end of year, we learned more about computer fundamentals. To demonstrate the knowledge, I have signifcantly begun various LinkedIn Learning Courses that will award certificates upon their completion. My in-progress courses include:
+> CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks
+> CompTIA A+ (220-1001) Cert Prep 2: Microprocessing and RAM
 
 ## Computer Science 2 (2019-2020)
 In Computer Science 2, we focused on JavaScript. All my work can be accessed as follows:
