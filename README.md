@@ -48,7 +48,7 @@ In this file, there is a line with "FILE_NAME_HERE"
 Replace those words with whichever JavaScript file you'd like to open.
 Download the JavaScript file and then run the _hello.html_ file.
 
-Unfortuantely, I do not have any work from the fourth quartile. This is due to the abrupt school shutdown as a result of the COVID-19 pandemic. 
+Unfortunately, I do not have any work from the fourth quartile. This is due to the abrupt school shutdown as a result of the COVID-19 pandemic. 
 
 QUARTILE 1 PROJECT
 
