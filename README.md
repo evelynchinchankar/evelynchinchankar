@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
-Hey there! I'm Evelyn Chinchankar, a junior at Westchester Academy for International Studies in Houston, Texas. I am currently in my third year of programming and in pursuit of an IB diploma. Over my three years with coding, I've worked with Python, JavaScript, HTML, CSS & PHP. 
+Hey there! I'm Evelyn Chinchankar, a senior at Westchester Academy for International Studies in Houston, Texas. I am currently in my fourth year of programming and in pursuit of an IB Diploma. Over my four years with coding, I've worked with Python, JavaScript, HTML, CSS & PHP. 
 
 ## How does this portfolio work?
 Over my high school career, I've compiled my computer science work here on GitHub. My Free Coding section is work I've done outside of school or not directly for a computer science class. After that, all my work is divided by the scholastic year I made it. Enjoy!
@@ -22,8 +22,13 @@ As an IB student, one requirement is that we complete a personal project over ou
 [Personal Project](https://github.com/evelynchinchankar/evelynchinchankar/blob/main/pp.html%20video.mov)
 
 ## IB Computer Science (2020-2022)
+### IB DP CS Year 2
+Our current focus is on programming fundamentals using C and Python. We have yet to build independent code.
+
+### IB DP CS Year 1
+
 ### Hypothetical Case Study
-Our latest unit has focused more on system fundamentals and IT policy. The project for our unit was to create a randomly determined company and act as a process analyst to yet another randomly determined company facing an issue. I "worked" as a part of ProcessEase to help the Crochet Chinthe Cafe on Mars to compete with another cafe domnating the market. I proposed my solutions in the Google Slides presentation linked below. 
+Our last unit in DP CS Year 1 focused on system fundamentals and IT policy. The project for our unit was to create a randomly determined company and act as a process analyst to yet another randomly determined company facing an issue. I "worked" as a part of ProcessEase to help the Crochet Chinthe Cafe on Mars to compete with another cafe dominating the market. I proposed my solutions in the Google Slides presentation linked below. 
 
 [Google Slides Link](https://docs.google.com/presentation/d/1SyaNTRU3RDyw8wJcXKkNfhftmR9vhAEHuOiH0gnl_oU/edit?usp=sharing)
 
