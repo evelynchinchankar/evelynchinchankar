@@ -23,7 +23,7 @@ As an IB student, one requirement is that we complete a personal project over ou
 
 ## IB Computer Science (2020-2022)
 ### IB DP CS Year 2
-Our current focus is on programming fundamentals using C and Python. We have yet to build independent code.
+Our focus was on programming fundamentals using C and Python in order to develop an Internal Assesment for the IB Diploma Exam. 
 
 ### IB DP CS Year 1
 
