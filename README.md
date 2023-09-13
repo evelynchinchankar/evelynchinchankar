@@ -1,10 +1,10 @@
 # Portfolio
 
 ## About Me
-Hey there! I'm Evelyn Chinchankar, a senior at Westchester Academy for International Studies in Houston, Texas. I am currently in my fourth year of programming and in pursuit of an IB Diploma. Over my four years with coding, I've worked with Python, JavaScript, HTML, CSS & PHP. 
+Hey there! I'm Evelyn Chinchankar, a sophomore at the Univeristy of Texas at Austin studying biomedical engineering, with a keen interest in computer science. I am currently in my sixth year of programming and am in the process of obtaining an Elements of Computing Certificate from UT. Over my years coding, I've worked with Python, JavaScript, C++, MATLAB, HTML, CSS & PHP. 
 
 ## How does this portfolio work?
-Over my high school career, I've compiled my computer science work here on GitHub. My Free Coding section is work I've done outside of school or not directly for a computer science class. After that, all my work is divided by the scholastic year I made it. Enjoy!
+Throughout high school, I compiled my computer science work here on GitHub, both to highlight my work and demonstrate my development within computer science. My Free Coding section is work I did outside of school or not directly for a computer science class. After that, all my work is divided by the scholastic year I made it. Enjoy!
 
 If you have any questions, comments, or concerns, feel free to email me @ evelynchinchankar@gmail.com !
 
